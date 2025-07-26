@@ -23,7 +23,7 @@ User 2:
 
 📦 How to Run
   Clone this project:
-    git clone https://github.com/your-username/java-atm-simulation.git
+    git clone https://github.com/UmutHSahin/ATM.Java.git
   Open it in your Java IDE or terminal.
   Run the app.java file to start the application.
 
@@ -59,7 +59,7 @@ Kullanıcı 2:
   
 📦 Nasıl Çalıştırılır?
   Bu projeyi klonlayın:
-    git clone https://github.com/kullanici-adi/java-atm-simulation.git
+    git clone https://github.com/UmutHSahin/ATM.Java.git
   Java IDE'nizde veya terminalde açın.
   app.java dosyasını çalıştırarak uygulamayı başlatın.
   
